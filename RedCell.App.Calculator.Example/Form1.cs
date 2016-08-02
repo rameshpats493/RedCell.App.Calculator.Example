@@ -10,6 +10,7 @@ namespace RedCell.App.Calculator.Example
 
         public Form1()
         {
+            // Comment added in RedCell-Calc-Dev branch
             InitializeComponent();
         }
 
